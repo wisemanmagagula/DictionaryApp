@@ -1,0 +1,1 @@
+export const wordtypes:string[] = ["Noun","Pronoun","Verb"];
